@@ -211,6 +211,7 @@ body{
 .oneinterets li { 
 	margin-top: 6px;
 	list-style: none;
+	font-size: 14px;
   }
 .twointerets li { 
 	margin-left: 30px;
